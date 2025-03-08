@@ -1,0 +1,8 @@
+[build]
+  publish = "/"
+  command = "# no build command needed"
+
+[[redirects]]
+  from = "/*"
+  to = "/8_3.html"
+  status = 200
